@@ -1,0 +1,55 @@
+{
+  "students": [
+    {
+      "id": 4,
+      "stuname": "harsh",
+      "sturollno": "4",
+      "stuterm": "2020",
+      "stucurrentyear": "SYBCOM",
+      "stucontactnumber": "131415",
+      "title": "year",
+      "color": "red",
+      "value": 30
+    },
+    {
+      "stuname": "kajal",
+      "sturollno": "34",
+      "stuterm": "2006",
+      "stucurrentyear": "TYBCOM",
+      "stucontactnumber": "123456",
+      "id": 5,
+      "title": "year",
+      "color": "green",
+      "value": 40
+    },
+    {
+      "stuname": "krishna",
+      "sturollno": "15",
+      "stuterm": "2018",
+      "stucurrentyear": "TYBCOM",
+      "stucontactnumber": "678909",
+      "id": 6,
+      "title": "year",
+      "color": "yellow",
+      "value": 30
+    }
+  ],
+  "Events": [
+    {
+      "id": 1,
+      "eventname": "Republic",
+      "eventdes": "Start Republic date event now",
+      "eventstrtdate": "2020",
+      "eventenddate": "2022",
+      "eventstatus": "completed"
+    },
+    {
+      "eventstatus": "ongoing",
+      "eventname": "Independence",
+      "eventdes": "celebrate today",
+      "eventstrtdate": "2013",
+      "eventenddate": "2014",
+      "id": 2
+    }
+  ]
+}
